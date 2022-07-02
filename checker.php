@@ -1,1 +1,1 @@
-{ "version":"1.3.2", "longversion":13200, "released":1656529200, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2679-k4-hidden-content\/" }
+{ "version":"1.3.3", "longversion":13300, "released":1656783003, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2679-k4-hidden-content\/" }
